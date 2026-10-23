@@ -4,6 +4,14 @@
 
 **A production-ready multi-agent AI chat and document intelligence system**
 
+<p align="center">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT"/></a>
+  <img src="https://img.shields.io/badge/Python-3.10%2B-blue.svg" alt="Python 3.10+"/>
+  <img src="https://img.shields.io/badge/Next.js-15-black.svg" alt="Next.js 15"/>
+  <img src="https://img.shields.io/badge/FastAPI-0.110%2B-009688.svg" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Status-Maintained-success.svg" alt="Maintained"/>
+</p>
+
 <img src="gitimg/1.png" alt="Chat Interface" width="750"/>
 
 </div>
